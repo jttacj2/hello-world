@@ -1,5 +1,5 @@
 # hello-world
-For my CIT 230 class
+
 
 I just wanted to say hi to you, yes you!
 
